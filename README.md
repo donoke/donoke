@@ -13,11 +13,11 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-[![DiorDevv's github stats](https://github-readme-stats.vercel.app/api?username=DiorDevv&theme=github_dark&show_icons=true)](https://github.com/DiorDevv/)
+[![DiorDevv's github stats](https://github-readme-stats.vercel.app/api?username=donoke&theme=github_dark&show_icons=true)](https://github.com/donoke/)
 
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiorDevv&theme=tokyonight_duo&hide_border=true)](https://github.com/DiorDevv/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=donoke&theme=tokyonight_duo&hide_border=true)](https://github.com/donoke/)
 
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
