@@ -1,6 +1,6 @@
 ![Welcome!](COIp95v7.gif)
 <h1 align="center">
-  <img src="name.svg" alt="Mirjamolov Doniyorbek" />
+  <img src="name.svg" alt="Mirjamolov Donoke" />
 </h1>
 <br/>
 
