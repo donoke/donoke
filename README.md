@@ -52,4 +52,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/shukurali-rezamonov/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diyorbekaxmadjonov98@gmail.com)](mailto:diyorbekaxmadjonov98@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/donoke)](https://donoke)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Don_oke633)](https://Don_oke633)
